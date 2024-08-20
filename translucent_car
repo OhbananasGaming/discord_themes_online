@@ -1,0 +1,48 @@
+:root {
+	--app-bg: url(https://imgur.com/EedFXG5.gif);
+	--app-blur: 6px;
+	--app-margin: 24px;
+	--app-radius: 8px; /*	-	*/
+	
+	--accent-hue: 156;
+	--accent-saturation: 77.5%;
+	--accent-lightness: 47.1%;
+	--accent-opacity: 1;
+	--accent-text-color: #000000; /*	-	*/
+
+	--sidebar-color: rgba(0, 0, 0, 0.161);
+	--main-content-color: rgba(0, 119, 255, 0.175); /*	-	*/
+
+	--message-color: rgba(0, 149, 255, 0.289);
+	--message-radius: 6px;
+	--message-padding-top: 4px;
+	--message-padding-side: 8px; /*	-	*/
+
+	--reply-hue: 226;
+	--reply-saturation: 77.4%;
+	--reply-lightness: 61.8%;
+	--reply-opacity: 1; /*	-	*/
+
+	--textarea-color: 255,255,255;
+	--textarea-alpha: 0.1;
+	--textarea-alpha-focus: 0.15;
+	--textarea-text-color: #ffffff;
+	--textarea-radius: 22px;  /*	-	*/
+
+	--card-color: rgba(22, 111, 252, 0.549);
+	--card-color-hover: rgba(255, 0, 0, 0.473);
+	--card-color-select: rgba(0, 208, 255, 0.7); /*	-	*/
+	
+	--button-height: 32px;
+	--button-padding: 0 16px;
+	--button-action-color: #4d8df5a0;
+	--button-radius: 16px; /*	-	*/
+
+	--interactive-normal: #ffffff92;
+	--interactive-hover: #4d8df5a0;
+	--interactive-active: #4d8df5;
+	--interactive-muted: #00000096; /*	-	*/
+
+	--background-modifier-hover: rgba(255, 255, 255, 0.509);
+	--background-modifier-selected: rgba(255,255,255,0.125);
+}
